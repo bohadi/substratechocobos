@@ -4,5 +4,5 @@
 
 <br>
 breed race and trade anime thoroughbred tokens<br>
-implemented, todo: graphics phenotyp ui<br>
+implemented, todo: graphics phenotyp ux<br>
 <br>
