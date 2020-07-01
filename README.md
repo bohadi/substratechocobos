@@ -1,6 +1,8 @@
 # substratechocobos
 
-![](https://github.com/bohadi/substratechocobos/blob/master/screenshot.gif)
+![](https://github.com/bohadi/substratechocobos/blob/v1.0/screenshot.gif)
 
-breed race and trade anime thoroughbred tokens
-implemented, todo: graphics phenotyp ui
+<br>
+breed race and trade anime thoroughbred tokens<br>
+implemented, todo: graphics phenotyp ui<br>
+<br>
